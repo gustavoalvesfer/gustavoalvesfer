@@ -4,7 +4,6 @@
 
 - 🔭  Estou a procura de uma vaga de estagio na área de TI 
 - 🌱 Atualmente faço faculdade de ciência da computação pela Universidade Cruzeiro do Sul
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/gustavoalvesfer">
