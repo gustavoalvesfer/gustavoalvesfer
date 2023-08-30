@@ -2,7 +2,7 @@
 
 
 
-- 🔭  Estou a procura de uma vaga de estagio na área de TI 
+- 🔭  Estagiário na área de TI 
 - 🌱 Atualmente faço faculdade de ciência da computação pela Universidade Cruzeiro do Sul
 
 <div align="center">
