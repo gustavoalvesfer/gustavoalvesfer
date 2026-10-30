@@ -35,7 +35,7 @@ Engenheiro de Software com foco em ecossistema .NET, arquitetura de microsserviÃ
 ### ğŸŒ Conecte-se comigo
 
 <div>
-  <a href="https://www.linkedin.com/in/gustavo-alves-fernandes-505a0b1b6/" target="_blank">
+  <a href="www.linkedin.com/in/gustavo-alves-fernandes-dev" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gustavoalvesfernandes7@gmail.com">
