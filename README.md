@@ -8,7 +8,7 @@ Engenheiro de Software com foco em ecossistema .NET, arquitetura de microsservi�
 
 - 💼 **Software Engineer** atuando no desenvolvimento e sustentação de microsserviços e APIs RESTful de alta performance.
 - 🎓 **Pós-graduando** em Cloud Computing & DevOps Engineering (FIAP).
-- 🎓 **Bacharel** em Ciência da Computação (Universidade Cruzeiro do Sul).
+- 🎓 **Bacharel** em Ciência da Computação.
 - 🛠️ **Foco técnico:** C#, .NET, Docker, mensageria distribuída (Kafka, RabbitMQ), SQL Server, MySQL, CI/CD e Azure.
 
 ---
